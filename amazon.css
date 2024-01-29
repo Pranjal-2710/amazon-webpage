@@ -1,0 +1,347 @@
+header{
+    background-color:#0F1111;
+    width:100%;
+    height:63px;
+}
+.hi{
+    border-radius:3px;
+    width:610px;
+    height:38px;
+    font-size:19px;
+    border:0.1px solid white;
+    background-color:white;
+    margin-top:15px;
+    margin-bottom:15px;   
+}
+i{
+    position:relative;
+    right:52px;
+    padding: 10px 15.8px;
+    background-color: #FEBD69;    
+}
+select{
+    width:51px;
+    height:36px;
+    position:relative;
+    left:4px;
+    background-color:rgba(250, 248, 248, 0.61);
+    padding:10px 0px;
+    border-radius:3px;
+}.welcome img{
+    height:50px;
+    width:100px;
+    position:relative;
+    left:10px;
+    top:12px;    
+}
+body{
+    margin:0px;
+
+    font-family:Arial;
+}
+.gold img{
+    height:40px;
+    width:50px;
+    position:relative;
+    top:10px;
+    left:9px;
+}
+header div{
+    display:inline-block;
+    position:relative;
+    color:white;
+}
+.gold{
+    position:relative;
+    right:-70px;
+    bottom:8px;
+}
+.key{
+    position:relative;
+    left:50px;
+    top:-5px;
+}
+.mon{
+    position:relative;
+    left:20px;
+    top:-5px;
+}
+.omg{
+    position:relative;
+    bottom:12px;
+    right:-30px;
+}
+.deliver img{
+    position:relative;
+    top:9px;
+    left:9px;
+}
+.deliver{
+    position:relative;
+    left:6px;
+    bottom:10px;
+}
+ul{
+    list-style:none;
+    background-color:#222f3d;
+    margin-top:0px;
+    margin-bottom:0px;
+    height:45x;
+}
+ul img{
+    position:relative;
+    top:9px;
+    right:22px;
+}
+.mine{
+    display:inline-block;
+    color:white;
+    font-size:15px;
+    margin:0 7px;
+    position:relative;
+    top:-16px;
+    right:-10px;
+}
+.idiot{
+    display:inline-block;
+    color:white;
+    font-size:15px;
+    position:relative;
+    left:550px;
+    bottom:16px;
+}
+.mine:hover{
+    border:1px solid white;
+}
+.idiot:hover{
+    border:1px solid white;
+}
+.mon:hover{
+    border:1px solid white;
+}
+.key:hover{
+    border:1px solid white;
+}
+.gold:hover{
+    border:1px solid white;
+}
+.deliver:hover{
+    border:1px solid white;
+}
+.welcome img:hover{
+    position:relative;
+    border:1px solid orange;
+}
+.hi:hover{
+    border:2px solid orange;
+}
+.content img{
+    width:100%; 
+}
+.rectangle{
+    height: 520px;
+}
+.rct1{
+    height:420px;
+    width:290px;
+    background-color:white;
+    position:relative;
+    top:-70px;
+}
+.rct1 img{
+    height:290px;
+    width:230px; 
+    position: relative;
+    left:27px;
+    top:65px;
+
+}
+.rct1 p{
+    color:black;
+    position:relative;
+    bottom:280px;
+    left:25px;
+    font-weight:bold;
+    font-size:20px;
+}
+.rct1 span{
+    color:blue;
+    font-weight:none;
+    position:relative;
+    left:28px;
+    top:15px;
+
+}
+.rct1 span:hover{
+    text-decoration:underline;
+    color:orange;
+}
+.rct2{
+    background-color:white;
+    position:relative;
+    height:420px;
+    width:290px;
+    top:-70px;
+    left:30px;
+}
+.rct2 img{
+    height:290px;
+    width:230px; 
+    position: relative;
+    top:65px;   
+    left:29px;
+}
+.rct2 p{
+    color:black;
+    position:relative;
+    font-weight:bold;
+    font-size:20px;
+    bottom:280px;
+    left:29px;
+}
+.rct2 span{
+    color:blue;
+    position:relative;
+    top:15px;
+    left:28px;
+}
+.rct2 span:hover{
+    text-decoration:underline;
+    color:orange;
+}
+.rct3{
+    background-color:white;
+    position:relative;
+    height:420px;
+    width:290px;
+    top:-70px;
+    left:60px;
+ 
+}
+.rct4{
+    background-color:white;
+    position:relative;
+    height:420px;
+    width:290px; 
+    bottom:70px;
+    left:86px;
+}
+.rct3 img{
+    height:290px;
+    width:230px; 
+    position: relative;
+    top:65px;   
+    left:29px;
+}
+.rct3 p{
+    color:black;
+    position:relative;
+    font-weight:bold;
+    font-size:20px;
+    bottom:280px;
+    left:29px;
+}
+.rct3 span{
+    color:blue;
+    position:relative;
+    top:15px;
+    left:28px;
+}
+.rct3 span:hover{
+    text-decoration:underline;
+    color:orange;
+}
+.rct4 img{
+    height:290px;
+    width:230px; 
+    position: relative;
+    top:65px;   
+    left:31px; 
+}
+.rct4 p{
+    color:black;
+    position:relative;
+    font-weight:bold;
+    font-size:20px;
+    bottom:280px;
+    left:29px;
+}
+.rct4 span{
+    color:blue;
+    position:relative;
+    top:15px;
+    left:28px;
+}
+.rct4 span:hover{
+    text-decoration:underline;
+    color:orange;
+}
+section div{
+    display:inline-block;
+    
+}
+section{
+    background-color:rgb(245,242,242);
+    position:relative;
+    bottom:3.9px;
+}
+.love{
+    background-color: #3c536a;
+    height:65px;
+    position:relative;
+    bottom:19px;
+}
+.love p{
+    color:white;
+    font-weight:bold;
+    text-align: center;
+    position:relative;
+    top:23.5px;
+}
+.zebra{
+    background-color:#222f3d;
+    color:white;
+    height:300px;
+    display:flex;
+    justify-content:space-evenly
+}
+.night p{
+    margin:0px; 
+    padding:0px; 
+}
+.evening p{
+    margin:0px;
+    padding:0px;
+}
+.noon p{
+    margin:0px;
+    padding:0px;
+}
+.morning p{
+    margin:0px;
+    padding:0px;
+}
+ul span{
+    display:block;
+    font-size:15px;
+    color:lightgray;
+    margin:10px;
+}
+ul p{
+    font-weight:bold;
+}
+.morning{
+    margin-top:30px;
+}
+.evening{
+    margin-top:30px;
+}
+.noon{
+    margin-top:30px;
+}
+.night{
+    margin-top:30px;
+}
+ul span:hover{
+    text-decoration:underline;
+}
